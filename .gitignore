@@ -1,0 +1,4 @@
+.env
+__pycache__/
+# Saved API responses contain users' personal data and password hashes
+response.txt
